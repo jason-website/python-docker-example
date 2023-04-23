@@ -1,0 +1,3 @@
+#!/bin/bash
+set -ueo pipefail
+echo "this is pre-command from python-docker-example"
